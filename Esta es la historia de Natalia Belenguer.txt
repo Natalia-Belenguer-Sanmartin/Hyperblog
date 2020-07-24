@@ -7,3 +7,4 @@ Me encantaria aprender a programar y mejorar el mundo.
 Platzi me va a cambiar la vida. Ahora mismo estoy aprendiendo Git.
 
 He aprendido que no puedo hacer un checkout solo de un documento de la rama master. No me gusta
+Cuidado con el checkout, antes he generado una rama sin darme cuenta.
