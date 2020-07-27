@@ -2,15 +2,16 @@ body
 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: mediumorchid;
+    color: #5DADE2;
     font-size: 16px;
     margin: 0em;
     padding: 0;
+    background: #1e1f24;
 }
 #contenedor
 {
-    width: 50%;
-    padding: 2cm;
+    width: 70%;
+    padding: 0cm;
     text-align: left;
     border: 1px solid black;
     margin: 0em auto;
@@ -21,10 +22,30 @@ body
 }
 #cabecera 
 {
-    background: blueviolet;
+    background: #37488b;
     color: white;
     margin: 0;
     padding: 0.5cm;
     font-weight: bold;
-    box-shadow: 0px 2px 50px 0px rgba( 0, 33, 0, 70);
+    box-shadow: 0px 2px 20px 0px rgba( 0, 0, 0, 5);
+}
+#cabecera #logo 
+{
+    width: 100px;
+    vertical-align: middle;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#cabecera #platzi 
+{
+    font-size: 14px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
