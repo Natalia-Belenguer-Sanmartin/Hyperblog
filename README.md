@@ -1,5 +1,4 @@
-
-Proyecto de blog para aprender Git y Github.
+### Proyecto de blog para aprender Git y Github.
 ### Curso profesional de Git y Github 
 Platzi es mi escuela online favorita
 Freddy Vega es el profesor de este curso, estoy muy contenta con sus clases.
